@@ -16,4 +16,4 @@ int main() {
     printf("%ld",rev);
     return 0;
 }
-//no need for temp, you can directly do with n instead of temp
+//use temp, it's good practise!
